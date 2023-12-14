@@ -1,10 +1,6 @@
 # CSVPARSER
 
-Certainly! A README file typically provides information about the project, how to set it up, and how to use it. Here's a basic README for your C++ program:
 
-markdownCopy code
-
-`# Course Management System
 
 ## Overview
 This C++ program is a simple Course Management System that utilizes a Binary Search Tree (BST) to manage and display course information. The program allows users to load course data from a CSV file, print all courses, search for a specific course by ID, and gracefully exit the program.
