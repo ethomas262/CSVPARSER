@@ -1,18 +1,27 @@
 What was the problem you were solving in the projects for this course?
-  -This C++ program is a simple Course Management System that utilizes a Binary Search Tree (BST) to manage and display course information. The program allows users to load course data from a CSV file, print all courses, search for a specific course by ID, and gracefully exit the program.
+
+  -This C++ program is a simple Course Management System that utilizes a Binary Search Tree (BST) to manage and display course information. The program allows users to load course data from a CSV file, print all courses, search for a specific course by ID, and gracefully exit the program.
 
 How did you approach the problem? Consider why data structures are important to understand.
-  -I approached the problem initially by collecting requirements for the solution and at first using different data structures until I found the one 
-    that would perform the best which was the BST as it had easier display times and the storing and organizing of data was largely done at the start of execution and remain constant.
 
-How did you overcome any roadblocks you encountered while going through the activities or project? 
-    -The first roadblock was that I had to increase my understanding of pointers in not only c++ but in computer architecture. 
-      Once i had a better understanding of how it worked it just became a matter of designing this solution.
+  -I approached the problem initially by collecting requirements for the solution and at first using different data structures until I found the one
 
-How has your work on this project expanded your approach to designing software and developing programs? 
-  -I think I am starting to understand how purpose built and simpler solutions 
-    are the best way to start a new project if you design them to be built upon as needed. 
+    that would perform the best which was the BST as it had easier display times and the storing and organizing of data was largely done at the start of execution and remain constant.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+
+    -The first roadblock was that I had to increase my understanding of pointers in not only c++ but in computer architecture.
+
+      Once i had a better understanding of how it worked it just became a matter of designing this solution.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+
+  -I think I am starting to understand how purpose built and simpler solutions
+
+    are the best way to start a new project if you design them to be built upon as needed.
 
 How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
-    -The use of Psuedocode and planning each data structure made the overall implementation phase of this program a lot easier. 
-      I would like to continue to use psuedocode and flow charts to describe systems before I start making a solution more often.
+
+    -The use of Psuedocode and planning each data structure made the overall implementation phase of this program a lot easier.
+
+      I would like to continue to use psuedocode and flow charts to describe systems before I start making a solution more often.
